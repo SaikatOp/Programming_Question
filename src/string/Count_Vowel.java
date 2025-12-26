@@ -2,7 +2,7 @@ package string;
 
 import java.util.Scanner;
 
-public class string4 {
+public class Count_Vowel {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
