@@ -1,6 +1,6 @@
 package array;
 
-public class array3 {
+public class Count_Even_Number {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

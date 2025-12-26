@@ -1,6 +1,6 @@
 package array;
 
-public class array2 {
+public class Max_Element {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

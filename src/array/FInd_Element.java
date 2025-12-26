@@ -1,7 +1,7 @@
 package array;
 import java.util.*;
 
-public class array5 {
+public class FInd_Element {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
