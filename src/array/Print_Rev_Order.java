@@ -1,6 +1,6 @@
 package array;
 
-public class PrintRevOrder {
+public class Print_Rev_Order {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
